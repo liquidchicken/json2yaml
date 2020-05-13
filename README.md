@@ -7,4 +7,4 @@ Simplest possible json to yaml converter
 * `npm link`
 
 ## License
-[MIT License] (https://spdx.org/licenses/MIT.html)
+[MIT License](https://spdx.org/licenses/MIT.html)
